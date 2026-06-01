@@ -1,20 +1,23 @@
-<div align="center">
-
-# नमस्ते (Namaste), I'm Dilip Dubey 👋
-
-### 🚀 Software Engineer Aspirant | CSE Student | DSA Enthusiast
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&color=36BCF7&center=true&vCenter=true&width=800&lines=Computer+Science+Engineering+Student;DSA+Enthusiast;React+JS+Developer;Node+JS+Developer;Future+Software+Engineer" />
-
-</div>
-
----
+<!-- ====================== BANNER ====================== -->
 
 <p align="center">
 <img src="./banner.png" width="100%">
 </p>
 
+<h1 align="center">नमस्ते (Namaste), I'm Dilip Dubey 👋</h1>
+
+<h3 align="center">
+🚀 Software Engineer Aspirant | CSE Student | DSA Enthusiast
+</h3>
+
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&color=36BCF7&center=true&vCenter=true&width=900&lines=Computer+Science+Engineering+Student;C%2B%2B+Developer;DSA+Enthusiast;React+JS+Developer;Node+JS+Developer;Future+Software+Engineer" />
+</p>
+
 ---
+
+<img align="right" alt="Coding" width="350"
+src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 ## 👨‍💻 About Me
 
@@ -22,13 +25,15 @@
 
 🏫 Technocrat's Institute Of Technology
 
-💻 Passionate about Problem Solving and Development
+💻 Passionate about Software Development and Problem Solving
 
-🌱 Currently Learning Data Structures & Algorithms
+🌱 Currently mastering Data Structures & Algorithms
 
-🚀 Building Projects using React JS, Node JS, MongoDB & SQL
+🚀 Building Full Stack Applications using React JS, Node JS & MongoDB
 
-🎯 Aspiring Software Engineer
+🎯 Preparing for Software Engineering Roles
+
+📚 Consistently learning and improving every day
 
 ---
 
@@ -37,24 +42,30 @@
 <p align="left">
 
 <a href="https://www.linkedin.com/in/dilip-dubey-b0a537253/">
-<img src="https://skillicons.dev/icons?i=linkedin" />
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
 <a href="mailto:dd01022006@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
 
 <a href="https://leetcode.com/u/Dilip_Dubey/">
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black">
 </a>
 
 </p>
 
+📧 Email: [dd01022006@gmail.com](mailto:dd01022006@gmail.com)
+
+🔗 LinkedIn: https://www.linkedin.com/in/dilip-dubey-b0a537253/
+
+💻 LeetCode: https://leetcode.com/u/Dilip_Dubey/
+
 ---
 
-## ⚒️ Languages and Tools
+## ⚒️ Languages & Tools
 
-<p align="left">
+<p align="center">
 
 <img src="https://skillicons.dev/icons?i=cpp,html,css,javascript,react,nodejs,mongodb,mysql,git,github,vscode" />
 
@@ -64,12 +75,17 @@
 
 ## 📚 Core Computer Science Subjects
 
-* Data Structures & Algorithms
-* Database Management System (DBMS)
-* SQL
-* Object-Oriented Programming (OOP)
-* Operating Systems
-* Computer Networks
+✔ Data Structures & Algorithms
+
+✔ Object Oriented Programming
+
+✔ Database Management System (DBMS)
+
+✔ SQL
+
+✔ Operating Systems
+
+✔ Computer Networks
 
 ---
 
@@ -78,7 +94,7 @@
 * Advanced DSA
 * React Ecosystem
 * Backend Development
-* System Design Fundamentals
+* System Design Basics
 
 ---
 
@@ -136,13 +152,14 @@
 
 ## 🎯 Career Objective
 
-To obtain a Software Engineering role where I can leverage my problem-solving skills, programming knowledge, and development experience to build impactful software solutions while continuously learning and growing.
+To secure a Software Engineering role where I can apply my problem-solving skills, DSA expertise, and full-stack development knowledge to build impactful software solutions and continuously grow as an engineer.
 
 ---
 
-## 💡 Daily Motivation
+## 💡 Quote
 
 > Consistency beats intensity.
+>
 > Small improvements every day lead to remarkable results.
 
 ---
@@ -151,7 +168,7 @@ To obtain a Software Engineering role where I can leverage my problem-solving sk
 
 <p align="center">
 
-<img src="https://komarev.com/ghpvc/?username=Dilip38&label=Profile%20Views&color=0e75b6&style=flat" />
+<img src="https://komarev.com/ghpvc/?username=Dilip38&label=Profile+Views&color=0e75b6&style=flat" />
 
 </p>
 
